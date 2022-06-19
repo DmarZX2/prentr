@@ -15,7 +15,7 @@ ANTI PARENTHESES GANG :pinching_hand:
    
 ## Installation 
     
-    pip install git+https://github.com/DmarZX2/prentr.git  
+    pip install prentr  
 
 ## Use Cases
 
