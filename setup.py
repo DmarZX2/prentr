@@ -16,10 +16,6 @@ setup(
     keywords = "python",
     url = "https://github.com/DmarZX2/prentr",
     packages=['prentr'],
-    long_description=read('README.md'),
-    classifiers=[
-        "Development Status :: 0.1 ALPHA",
-        "Topic :: print",
-        "License :: The Unlicense",
-    ],
+    long_description_content_type="text/markdown",
+    long_description=read('README.md')
 )
